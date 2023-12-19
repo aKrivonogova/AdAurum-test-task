@@ -1,0 +1,6 @@
+{
+    "logoutButtonModifer": "header__button--logout",
+    "settingsButtonModifer": "header__button--settings",
+    "headerLogoUserModifer": "header__logo--user",
+    "headerProgressModiger": "header__logo--progress"
+}
